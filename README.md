@@ -141,7 +141,7 @@ Conoce a los **colaboradores** que han aportado al desarrollo de este proyecto. 
   <img src="https://contrib.rocks/image?repo=BrunoSobrino/TheMystic-Bot-MD" /> 
 </a>
 
-## Agradecimientos
+## Agradecimientos 
 
 <a href="https://github.com/BochilGaming/games-wabot-md/tree/multi-device">
   <img src="https://i.ibb.co/CMpM8pk/Bochil-Gaming.png" width="180px"/>
